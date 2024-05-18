@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SRTOffsetChanger", "SRTOffsetChanger.csproj", "{DA592FA1-BC65-42A2-A01A-1F3FA8D5409E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteSRT", "..\TesteSRT\TesteSRT.csproj", "{DCADE771-7D88-4A00-B8E1-CEC2732EBB52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA592FA1-BC65-42A2-A01A-1F3FA8D5409E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA592FA1-BC65-42A2-A01A-1F3FA8D5409E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA592FA1-BC65-42A2-A01A-1F3FA8D5409E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA592FA1-BC65-42A2-A01A-1F3FA8D5409E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCADE771-7D88-4A00-B8E1-CEC2732EBB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCADE771-7D88-4A00-B8E1-CEC2732EBB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCADE771-7D88-4A00-B8E1-CEC2732EBB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCADE771-7D88-4A00-B8E1-CEC2732EBB52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D1773C5-1DA1-4532-BA27-FB6E05C6EB89}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Invoker\source\repos\SRTOffsetChanger\obj\Debug\net7.0\SRTOffsetChanger.csproj.AssemblyReference.cache
+C:\Users\Invoker\source\repos\SRTOffsetChanger\obj\Debug\net7.0\SRTOffsetChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Invoker\source\repos\SRTOffsetChanger\obj\Debug\net7.0\SRTOffsetChanger.AssemblyInfoInputs.cache
+C:\Users\Invoker\source\repos\SRTOffsetChanger\obj\Debug\net7.0\SRTOffsetChanger.AssemblyInfo.cs
+C:\Users\Invoker\source\repos\SRTOffsetChanger\obj\Debug\net7.0\SRTOffsetChanger.csproj.CoreCompileInputs.cache
+C:\Users\Invoker\source\repos\SRTOffsetChanger\bin\Debug\net7.0\SRTOffsetChanger.deps.json
+C:\Users\Invoker\source\repos\SRTOffsetChanger\bin\Debug\net7.0\SRTOffsetChanger.runtimeconfig.json
+C:\Users\Invoker\source\repos\SRTOffsetChanger\bin\Debug\net7.0\SRTOffsetChanger.dll
+C:\Users\Invoker\source\repos\SRTOffsetChanger\bin\Debug\net7.0\SRTOffsetChanger.pdb
+C:\Users\Invoker\source\repos\SRTOffsetChanger\obj\Debug\net7.0\SRTOffsetChanger.dll
+C:\Users\Invoker\source\repos\SRTOffsetChanger\obj\Debug\net7.0\refint\SRTOffsetChanger.dll
+C:\Users\Invoker\source\repos\SRTOffsetChanger\obj\Debug\net7.0\SRTOffsetChanger.pdb
+C:\Users\Invoker\source\repos\SRTOffsetChanger\obj\Debug\net7.0\SRTOffsetChanger.genruntimeconfig.cache
+C:\Users\Invoker\source\repos\SRTOffsetChanger\obj\Debug\net7.0\ref\SRTOffsetChanger.dll

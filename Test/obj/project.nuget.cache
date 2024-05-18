@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "T73TojLBIh+nsYW9mBk+hhs+QzerEXzxXUtkPs7QU1BTnK4ABOGOZ2gf8MPQF+a+VQkHIOyd3kFzBJEDDbpIxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Invoker\\Desktop\\oaiesjroiqweajkr\\SRT-Offset-Reader\\Test\\TesteSRT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Invoker\\.nuget\\packages\\xunit\\2.8.0\\xunit.2.8.0.nupkg.sha512",
+    "C:\\Users\\Invoker\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\Invoker\\.nuget\\packages\\xunit.analyzers\\1.13.0\\xunit.analyzers.1.13.0.nupkg.sha512",
+    "C:\\Users\\Invoker\\.nuget\\packages\\xunit.assert\\2.8.0\\xunit.assert.2.8.0.nupkg.sha512",
+    "C:\\Users\\Invoker\\.nuget\\packages\\xunit.core\\2.8.0\\xunit.core.2.8.0.nupkg.sha512",
+    "C:\\Users\\Invoker\\.nuget\\packages\\xunit.extensibility.core\\2.8.0\\xunit.extensibility.core.2.8.0.nupkg.sha512",
+    "C:\\Users\\Invoker\\.nuget\\packages\\xunit.extensibility.execution\\2.8.0\\xunit.extensibility.execution.2.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
